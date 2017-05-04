@@ -1,0 +1,3 @@
+USE W0114267;
+
+SELECT * FROM dots;
